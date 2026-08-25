@@ -4,6 +4,12 @@ A personal Codex skill for organizing a connected iPhone Home Screen with [Unjig
 
 It preserves the Dock, keeps existing widgets, creates a recoverable backup before writes, and classifies apps into a 12 Olympian emoji+English folder taxonomy.
 
+## Screenshot
+
+Place your iPhone Home Screen screenshot at `assets/iphone-home-screen.png`.
+
+![iPhone Home Screen organized into Olympian-themed folders](assets/iphone-home-screen.png)
+
 ## Install
 
 Clone this repository into your Codex skills directory:
