@@ -35,4 +35,4 @@ Then ask Codex to use `iphone-olympian-layout` when checking or rewriting your i
 - `🪽 Hermes`: communication, networking, proxy/VPN, browsers, carriers, SMS filtering
 - `🏛️ Hestia`: home, smart home, appliances, pets, household utilities
 
-See [SKILL.md](SKILL.md) for the full operating rules.
+See [SKILL.md](SKILL.md) for routing, [references/taxonomy.md](references/taxonomy.md) for classification rules, and [references/unjiggle-workflow.md](references/unjiggle-workflow.md) for device-write safeguards.
